@@ -1,0 +1,2 @@
+pg_api_ai_bearer="1a01d0ad26a149cf8cec03626bd04a6d"
+pg_api_ai_session_id=Sw1JVWloYE3zrjHhUF1xCDliXYRxkbbSemW7

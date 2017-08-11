@@ -1,0 +1,1 @@
+*==pg_api_ai_stt="$order" && say "$(pg_api_ai_request)"
